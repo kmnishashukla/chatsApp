@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095764187126",
+    "project_id": "chatsapp-fe2de",
+    "storage_bucket": "chatsapp-fe2de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095764187126:android:1c7bec9733133cb1d2d9d7",
+        "android_client_info": {
+          "package_name": "com.example.ChatsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095764187126-v6v6baesgobmkb7vcq2ug7a92uindrf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbVNrwtUUpbgGA_5parJwifPs6B7RxyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095764187126-v6v6baesgobmkb7vcq2ug7a92uindrf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
